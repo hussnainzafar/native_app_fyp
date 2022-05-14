@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138986348222",
+    "firebase_url": "https://wellbeingplanner-63e19-default-rtdb.firebaseio.com",
+    "project_id": "wellbeingplanner-63e19",
+    "storage_bucket": "wellbeingplanner-63e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138986348222:android:e2c41f1ce9c30268fc48ef",
+        "android_client_info": {
+          "package_name": "com.vf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138986348222-c59e63q0nue29e07tgscrdanatopes82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vf",
+            "certificate_hash": "07f6f22c4ec70bd53b34a5aefaf8052d37a7a537"
+          }
+        },
+        {
+          "client_id": "138986348222-pglqlgj91si6lrrnll9qrnqdtes6g110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2z3g1Qp8-0YXwtu644IDp1dZKBTSI6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138986348222-pglqlgj91si6lrrnll9qrnqdtes6g110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
